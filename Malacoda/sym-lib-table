@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "MC68032_CPU_Card")(type "KiCad")(uri "${KIPRJMOD}/MC68032_CPU_Card.kicad_sym")(options "")(descr ""))
+)

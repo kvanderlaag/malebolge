@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "mc68302-cpu-card")(type "KiCad")(uri "D:/Projects/mc68302-cpu-card/Malacoda/mc68302-cpu-card.pretty")(options "")(descr ""))
+)

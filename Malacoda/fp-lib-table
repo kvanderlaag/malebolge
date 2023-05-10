@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "MC68302_CPU_Card")(type "KiCad")(uri "D:/Projects/pc104-itx-isa-riser/MC68302_CPU_Card.pretty")(options "")(descr ""))
+  (lib (name "mc68302-cpu-card")(type "KiCad")(uri "${KIPRJMOD}/mc68302-cpu-card.pretty")(options "")(descr ""))
+)
